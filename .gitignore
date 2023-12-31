@@ -1,0 +1,10 @@
+# direnv
+/**/.direnv
+
+# nix
+/**/result*
+/**/repl-result-*
+
+# qemu
+/**/*.qcow2
+
